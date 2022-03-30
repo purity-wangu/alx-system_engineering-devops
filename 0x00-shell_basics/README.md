@@ -1,1 +1,1 @@
-# bash script that prints the absolute path name of the current working directory.
+splay the contents list of your current directory
