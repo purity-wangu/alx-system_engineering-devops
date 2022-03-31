@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "$(su -l betty)"
+echo -e "$(su betty)"
