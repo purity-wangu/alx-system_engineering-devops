@@ -1,2 +1,4 @@
 #!/bin/bash
-echo 'printf "((TRUEKNOWLEDGE+=128))"'
+export TRUEKNOWLEDGE=1209 
+sum=$(expr $TRUEKNOWLEDGE + 128)
+echo $sum
