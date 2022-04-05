@@ -1,4 +1,2 @@
-#!/bin/bash
-export TRUEKNOWLEDGE=1209 
-sum=$(expr $TRUEKNOWLEDGE + 128)
-echo $sum
+#!/bin/bash 
+echo $((1209+128))
