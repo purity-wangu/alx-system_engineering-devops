@@ -1,3 +1,2 @@
 #!/bin/bash
-a=$((POWER/DIVIDE))
-a=$((b/c))
+echo $expr ((POWER/DIVIDE))
